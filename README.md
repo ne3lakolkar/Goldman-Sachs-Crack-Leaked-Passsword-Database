@@ -36,10 +36,14 @@ https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blo
 
 ```
 Dear Sir/Ma’am
-After trying to crack all the leaked hashes, I found several vulnerabilities in your password policy and this email concludes all the findings and suggestions to improve your password policy.
+After trying to crack all the leaked hashes, I found several vulnerabilities in your password policy 
+and this email concludes all the findings and suggestions to improve your password policy.
+
 Secure Hash Algorithm (SHA) and Message Digest (MD5) are the standard cryptographic hash functions to provide data security for authentication.
+
 All the password which are compromised were using MD5 which is a weaker hash algorithm and is prone to collisions.
 It was very easy to crack with Hashcat.com and rockyou.txt wordlist via terminal and web browsers. I would suggest that you use a very strong password encryption mechanism to create hashes for the password based on SHA.
+
 After cracking the passwords, we find the following things about organisation’s password policy: 
 • Minimum length for password is set to 6.
 • There is no specific requirement for the password creation. Users can use any combination of word and letters to create a password.
