@@ -59,7 +59,9 @@ You can include several new things in your password policy. My recommendations a
 Thanking you, 
 Name: Neel P. Akolkar
 B.Tech Electronics and Telecommunications 
- 
+```
+## Observations:
+```
 Security Algorithms used: 
 experthead:e10adc3949ba59abbe56e057f20f883e – MD5
 interestec:25f9e794323b453885f5181f1b624d0b – MD5
