@@ -32,10 +32,10 @@ As a result of the analysis the following uplifts are proposed to increase the o
 •	Educate users on the benefits of passwords managers. Having a password manager allows having very long and completely random passwords (e.g. M>?{tk6Cfep6BrZ4J)KZWQ8j) without the need to remember/write down. A strong passphrase is still required as a master key for to access the password manager.
 
 # Project Report and Observations 
-https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/SHA%20Hashes%20and%20Goldman%20Sachs%20Internship.pdf
 
 ```
 Dear Sir/Ma’am
+
 After trying to crack all the leaked hashes, I found several vulnerabilities in your password policy 
 and this email concludes all the findings and suggestions to improve your password policy.
 
@@ -96,6 +96,7 @@ liveltekah:3f230640b78d7e71ac5514e57935eb69 - qazxsw
 blikimore:917eb5e9d6d6bca820922a0c6f7cc28b - Pa$$word1
 johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 ```
+https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/SHA%20Hashes%20and%20Goldman%20Sachs%20Internship.pdf
 
 ## Resources 
 
