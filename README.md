@@ -102,6 +102,8 @@ liveltekah:3f230640b78d7e71ac5514e57935eb69 - qazxsw
 blikimore:917eb5e9d6d6bca820922a0c6f7cc28b - Pa$$word1
 johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 ```
+Complete report is available at: 
+
 https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/SHA%20Hashes%20and%20Goldman%20Sachs%20Internship.pdf
 
 ## Resources 
