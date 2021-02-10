@@ -32,7 +32,9 @@ As a result of the analysis the following uplifts are proposed to increase the o
 •	Educate users on the benefits of passwords managers. Having a password manager allows having very long and completely random passwords (e.g. M>?{tk6Cfep6BrZ4J)KZWQ8j) without the need to remember/write down. A strong passphrase is still required as a master key for to access the password manager.
 
 # Project Report and Observations 
+Completing this task assigned by Goldman Sachs, MD5 and SHA were the two algorithms that I came across. Analysing the passwords and their respective security algorithms used, I narrowed down my observations into this report.
 
+## Project Report
 ```
 Dear Sir/Ma’am
 
