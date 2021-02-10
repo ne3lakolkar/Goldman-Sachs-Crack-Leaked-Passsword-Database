@@ -50,7 +50,8 @@ I would suggest that you use a very strong password encryption mechanism to crea
 
 After cracking the passwords, we find the following things about organisation’s password policy: 
 • Minimum length for password is set to 6.
-• There is no specific requirement for the password creation. Users can use any combination of word and letters to create a password.
+• There is no specific requirement for the password creation. 
+  Users can use any combination of word and letters to create a password.
 
 You can include several new things in your password policy. My recommendations are:
 • Avoid common words and character combinations in your password.
